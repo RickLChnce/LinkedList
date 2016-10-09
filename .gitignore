@@ -1,0 +1,16 @@
+# Files and folders to be ignored
+*.vs
+*.sln
+*.vc
+*.opendb
+*.exe
+*.ilk
+*.pdb
+*.suo
+*.vcxproj
+*.db
+*.log
+*.idb
+*.lastbuildstate
+*.filters
+Debug
